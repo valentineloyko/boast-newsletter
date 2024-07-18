@@ -11,7 +11,7 @@
 
 This project is a test assignment by Valentyn Loiko to implement a "Subscribe" floating card component with advanced functionality. The component features transitions, controlled visibility, scheduled reappearance for users who rejected (in demo mode - 5 seconds), and subscription state is maintained in local storage from the parent component. Additionally, a couple of unit tests for the component are included.
 
-IMPORTANT: You can watch a LOOM demo for this project here -->
+IMPORTANT: You can watch a LOOM demo for this project here --> https://www.loom.com/share/f7aeb37505f8458ba838b95325b8144e?sid=49c49798-9981-4cc1-a461-376b7b108f90
 
 ## Table of Contents
 
